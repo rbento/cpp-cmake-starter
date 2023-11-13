@@ -1,4 +1,5 @@
 # cpp-cmake-starter
+![Build](https://github.com/rbento/cpp-cmake-starter/actions/workflows/cmake-multi-platform.yml/badge.svg)
 
 ### About
 ---
