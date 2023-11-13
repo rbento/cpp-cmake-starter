@@ -14,16 +14,7 @@ Automatically includes the required headers while compiling and linking the exec
 - Update `project_name` in `CMakeLists.txt`
 
 ### Build & Run
-
-#### Windows
-
-**Visual Studio**
-
-- Open a local folder
-- `Project` > `Generate cache for <project-name>`
-- Right click a source file in the `Solution Explorer` and `Set as Startup Item`
-- Build with `Ctrl+B`
-- Debug with `F5`
+---
 
 #### macOS
 
@@ -39,4 +30,12 @@ Includes scripts for cleaning and building the project.
 # Run
 ./build/project_name
 ```
+
+#### Windows / Visual Studio
+
+- Open a local folder
+- `Project` > `Generate cache for <project-name>`
+- Right click a source file in the `Solution Explorer` and `Set as Startup Item`
+- Build with `Ctrl+B`
+- Debug with `F5`
 
