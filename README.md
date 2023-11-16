@@ -30,6 +30,8 @@ Includes scripts for cleaning and building the project.
 # Run
 ./run.sh
 ```
+<img width="1274" alt="Screenshot 2023-11-16 at 5 03 57 AM" src="https://github.com/rbento/cpp-cmake-starter/assets/1512264/3c65e6d1-2757-4546-8341-034f4fed4137">
+
 
 #### Windows / Visual Studio
 
