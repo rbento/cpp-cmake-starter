@@ -11,7 +11,7 @@ Automatically includes the required headers while compiling and linking the exec
 ### Usage
 ---
 
-- Update `project_name` in `CMakeLists.txt`
+- Update `project_name` in `CMakeLists.txt` and `run.sh`
 
 ### Build & Run
 ---
@@ -28,7 +28,7 @@ Includes scripts for cleaning and building the project.
 ./build.sh
 
 # Run
-./build/project_name
+./run.sh
 ```
 
 #### Windows / Visual Studio
